@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [ Visite o projeto onlne] (https://caiovfelipe.github.io/habits/)
+- [Visite o projeto online](https://caiovfelipe.github.io/habits/)
 
 ## 🔖 Layout
 
